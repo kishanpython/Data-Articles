@@ -17,3 +17,5 @@
 ### How do I create my own dataset for the NLP tasks? 🚀 <a href="https://kishanyadav.hashnode.dev/how-do-i-create-my-own-dataset-for-the-nlp-tasks">Link</a>
 
 ### Docker in Simple Words 🚀 <a href="https://kishanyadav.hashnode.dev/docker-in-simple-words">Link</a>
+
+### Advantages of Using Cloud Data Platform Snowflake 🚀 <a href="https://www.analyticsvidhya.com/blog/2022/11/advantages-of-using-cloud-data-platform-snowflake/"> Link </a>
