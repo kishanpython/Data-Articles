@@ -1,21 +1,51 @@
-# Data-Articles
+# 🚀 📃 Data Engineering Articles ⚙️
 
-### Introduction to Azure Databricks Notebook 🚀  <a href="https://www.analyticsvidhya.com/blog/2022/05/introduction-to-azure-databricks-notebook/" target="_blank">Link</a>
+A quick reference guide to the data engineering articles.
 
-### Introduction to Azure Data Lake Storage Gen2 🚀  <a href="https://www.analyticsvidhya.com/blog/2022/05/introduction-to-azure-data-lake-storage-gen2/" target="_blank">Link</a>
+#### Table of Contents
+- [PySpark](#pyspark)
+- [Cloud](#cloud)
+- [Snowflake](#snowflake)
+- [Python](#python)
+- [Big Data](#big-data)
+- [NLP](#nlp)
 
-### All About Big Data File Formats 🚀  <a href="https://www.analyticsvidhya.com/blog/2022/05/all-about-big-data-file-formats/" target="_blank">Link</a>
 
-### Most Asked Interview Questions on Apache Spark 🚀  <a href="https://www.analyticsvidhya.com/blog/2022/08/most-asked-interview-questions-on-apache-spark/" target="_blank">Link</a>
+## PySpark
 
-### Most Important PySpark Functions with Example 🚀  <a href="https://www.analyticsvidhya.com/blog/2022/10/most-important-pyspark-functions-with-example/" target="_blank">Link</a>
+#### Important PySpark Functions with Example 
+- [Visit Article](https://www.analyticsvidhya.com/blog/2022/10/most-important-pyspark-functions-with-example/)
+#### Most Asked Interview Questions on Apache Spark
+- [Visit Article](https://www.analyticsvidhya.com/blog/2022/08/most-asked-interview-questions-on-apache-spark/)
 
-### Time zone changing of a Heroku App 🚀  <a href="https://kishanyadav.hashnode.dev/time-zone-changing-of-a-heroku-app" target="_blank">Link</a>
 
-### Deploy Python Cron Job Scripts on Heroku 🚀  <a href="https://kishanyadav.hashnode.dev/deploy-python-cron-job-scripts-on-heroku" target="_blank">Link</a>
+## Cloud
+#### Introduction to Azure Databricks Notebook 
+- [Visit Article](https://www.analyticsvidhya.com/blog/2022/05/introduction-to-azure-databricks-notebook/)
 
-### How do I create my own dataset for the NLP tasks? 🚀 <a href="https://kishanyadav.hashnode.dev/how-do-i-create-my-own-dataset-for-the-nlp-tasks">Link</a>
+#### Introduction to Azure Data Lake Storage Gen2 
+- [Visit Article](https://www.analyticsvidhya.com/blog/2022/05/introduction-to-azure-data-lake-storage-gen2/)
 
-### Docker in Simple Words 🚀 <a href="https://kishanyadav.hashnode.dev/docker-in-simple-words">Link</a>
+#### Docker in Simple Words
+- [Visit Article](https://kishanyadav.hashnode.dev/docker-in-simple-words)
 
-### Advantages of Using Cloud Data Platform Snowflake 🚀 <a href="https://www.analyticsvidhya.com/blog/2022/11/advantages-of-using-cloud-data-platform-snowflake/"> Link </a>
+## Big Data
+#### All About Big Data File Formats
+- [Visit Article](https://www.analyticsvidhya.com/blog/2022/05/all-about-big-data-file-formats/)
+
+## Python
+#### Time zone changing of a Heroku App 
+- [Visit Article](https://kishanyadav.hashnode.dev/time-zone-changing-of-a-heroku-app)
+
+#### Deploy Python Cron Job Scripts on Heroku 
+- [Visit Article](https://kishanyadav.hashnode.dev/deploy-python-cron-job-scripts-on-heroku)
+
+## NLP
+#### How do I create my own dataset for the NLP tasks? 
+- [Visit Article](https://kishanyadav.hashnode.dev/how-do-i-create-my-own-dataset-for-the-nlp-tasks)
+
+## Snowflake
+#### Advantages of Using Cloud Data Platform Snowflake 
+- [Visit Article](https://www.analyticsvidhya.com/blog/2022/11/advantages-of-using-cloud-data-platform-snowflake/)
+
+
